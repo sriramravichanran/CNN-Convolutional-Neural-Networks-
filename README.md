@@ -4,3 +4,4 @@ drt
 ko
 opo
 opopo
+'[;
